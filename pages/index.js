@@ -17,10 +17,6 @@ export default function Home() {
         </h1>
 
       </main>
-
-      <footer className={styles.footer}>
-      
-      </footer>
     </div>
   )
 }
